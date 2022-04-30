@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juli jobs app</string>
+
+
+    <string name="nav_header_title">Nama Admin</string>
+    <string name="nav_header_subtitle">Keterangan</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="selamat_datang">Aplikasi Pendaftar Perusahaan</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_about">Tentang</string>
+
+    <!-- Text Description-->
+
+    <string name="desc1">Henry memiliki reputasi buruk, dia mati-matian mencoba mencuri pacar seseorang, tetapi dia tidak berhasil, dia memiliki semangat yang baik dalam pekerjaannya, tidak baik dengan mulutnya, juga tidak benar.
+    </string>
+
+    <string name="desc2">Hamm dia memiliki reputasi baik, dia memiliki semangat yang baik dalam pekerjaannya, tidak baik dengan mulutnya, juga tidak benar.
+    </string>
+
+    <string name="desc3">Beezy memiliki reputasi baik, malas akan pekerjaan dia sebelumnya, pendiam, dan tidak terlihat antusias dalam bekerja.
+    </string>
+
+    <string name="desc4">Mochi antusias dalam mengerjakan pekerjaannya, memiliki pribadi jujur dan tegas, dan tidak pernah menyerah.
+    </string>
+
+    <string name="desc5">Brewery jujur dalam bekerja, suka basa-basi, dan dapat mudah dipercaya oleh rekan kerjanya.
+    </string>
+
+    <string name="desc6">Lucy memiliki pribadi ramah, rajin, optimis, dan mudah bergaul.
+    </string>
+
+    <string name="desc7">Astro kurang jujur dalam bekerja, pendiam, pemalu, dan agak malas dalam melakukan pekerjaan.
+    </string>
+
+    <string name="desc8">Boozy memiliki pribadi ramah, rajin, dan optimis.
+    </string>
+
+    <string name="desc9">Pippa dapat mudah bekerja sama dengan patner kerja yang lain, dan dipercaya orang lain.
+    </string>
+
+
+    <string name="sex1">Kelamin: Perempuan</string>
+    <string name="sex2">Kelamin: Laki-laki</string>
+
+    <string name="age1">Umur: 23</string>
+    <string name="age2">Umur: 24</string>
+    <string name="age3">Umur: 25</string>
+
+</resources>

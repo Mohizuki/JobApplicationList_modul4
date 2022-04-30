@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Juli jobs app</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title">Admin name</string>
+    <string name="nav_header_subtitle">Description</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="selamat_datang">Company registration application</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_about">About</string>
+
+    <!-- Text Home-->
+
+    <string name="name1" translatable="false">Henry</string>
+    <string name="name2" translatable="false">Hamm</string>
+    <string name="name3" translatable="false">Beezy</string>
+    <string name="name4" translatable="false">Mochi</string>
+    <string name="name5" translatable="false">Brewery</string>
+    <string name="name6" translatable="false">Lucy</string>
+    <string name="name7" translatable="false">Astro</string>
+    <string name="name8" translatable="false">Boo</string>
+    <string name="name9" translatable="false">Pippa</string>
+
+    <!-- Text Description-->
+
+    <string name="desc1">Henry has bad reputation, he desperately trying to steal someones girlfriend, but hes not successful, he has good spirit in his work, not good with his mouth, also not being true."
+    </string>
+
+    <string name="desc2">Hamm he has a good reputation, he has a good spirit in his work, not good with his mouth, nor is he right.
+    </string>
+
+    <string name="desc3">Beezy has a good reputation, is lazy about her previous job, is quiet, and doesnt seem enthusiastic about work.
+    </string>
+
+    <string name="desc4">Mochi is enthusiastic about doing his job, has an honest and firm personality, and never gives up.
+    </string>
+
+    <string name="desc5">Brewery is honest at work, likes small talk, and can be easily trusted by his co-workers.
+    </string>
+
+    <string name="desc6">Lucy has a friendly personality, diligent, optimistic, and easy to get along with.
+    </string>
+
+    <string name="desc7">Astro is less honest at work, quiet, shy, and a bit lazy in doing work.
+    </string>
+
+    <string name="desc8">Boozy has a friendly, diligent, and optimistic personality.
+    </string>
+
+    <string name="desc9">Pippa can easily work with other work partners, and is trusted by others.
+    </string>
+
+
+    <string name="sex1">Sex: Female</string>
+    <string name="sex2">Sex: Male</string>
+
+    <string name="age1">Age: 23</string>
+    <string name="age2">Age: 24</string>
+    <string name="age3">Age: 25</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
